@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Backend<br>💬 Ask me about Sofwares
-
+🔭 Currently working on… absolutely nothing, and somehow still tired<br>👯 Open to collaborating on anything that sounds cool or chaotic<br>🌱 Learning something new because my brain refuses to idle<br>💬 Ask me about software and I’ll start talking like a caffeinated compiler
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/he0xa1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/he0xa1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@he0xa1) 
